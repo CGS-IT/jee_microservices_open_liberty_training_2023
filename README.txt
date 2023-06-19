@@ -1,3 +1,5 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 After you generate a starter project, these instructions will help you with what to do next.
 
 The Open Liberty starter gives you a simple, quick way to get the necessary files to start building
